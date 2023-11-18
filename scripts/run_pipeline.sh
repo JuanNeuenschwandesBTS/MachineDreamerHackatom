@@ -6,8 +6,8 @@
 # ./run_pipeline.sh 2020-01-01 2020-01-31 data/raw_data.csv data/processed_data.csv models/model.pkl data/test_data.csv predictions/predictions.json
 
 # Get command line arguments
-start_date="$2020-01-01"
-end_date="$2020-01-31"
+start_date="$1"
+end_date="$2"
 raw_data_file="$3"
 processed_data_file="$4"
 model_file="$5"
