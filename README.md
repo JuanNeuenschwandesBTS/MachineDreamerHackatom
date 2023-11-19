@@ -42,9 +42,9 @@ To use the script:
 Once we got the CSV files from the data ingestion script we started working.
 
 1. We first observed the behavior of the time series.
-![Alt text](.\Images\gen_dic_NE.png)
+![DA_normal_features]
 We also noticed weir behaviors such like in UK
-![Alt text](.\Images\gen_dic_UK.png)
+![DA_unnormal_features]
 
 
 ### ARIMA modeling 
@@ -78,3 +78,9 @@ Project Link: [https://github.com/your_username_/SE-Europe-Data_Challenge_Templa
 - Schneider Electric
 - NUWE
 - Any other contributors or sponsors
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[DA_normal_features]: Images/gen_dic_NE.png
+[DA_unnormal_features]: Images/gen_dic_NE.png
