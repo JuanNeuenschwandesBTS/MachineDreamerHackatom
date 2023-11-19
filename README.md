@@ -83,4 +83,4 @@ Project Link: [https://github.com/your_username_/SE-Europe-Data_Challenge_Templa
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [DA_normal_features]: Images/gen_dic_NE.png
-[DA_unnormal_features]: Images/gen_dic_NE.png
+[DA_unnormal_features]: Images/gen_dic_UK.png
