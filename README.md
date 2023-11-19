@@ -38,6 +38,19 @@ To use the script:
    python create_db.py database_name
    ```
 
+## Results
+Once we got the CSV files from the data ingestion script we started working.
+
+1. We first observed the behavior of the time series.
+![Alt text](.\Images\gen_dic_NE.png)
+We also noticed weir behaviors such like in UK
+![Alt text](.\Images\gen_dic_UK.png)
+
+
+### ARIMA modeling 
+
+![Alt text](image link)
+
 ## Contributing
 
 Contributions to this project are welcome. If you have a suggestion that would improve this, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
@@ -54,7 +67,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [Your Email](mailto:your_email@example.com)
+Juan Neuenschwander - [Your Email](mailto:juan.neuenschwander@hotmail.com)
+Pablo Ruiz - [Your Email](mailto:pabloweb8@gmail.con)
+Daniel Espinoza - [Your Email](mailto:danielx.1997@gmail.com)
 
 Project Link: [https://github.com/your_username_/SE-Europe-Data_Challenge_Template](https://github.com/your_username_/SE-Europe-Data_Challenge_Template)
 
