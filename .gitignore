@@ -1,4 +1,4 @@
 .DS_Store
 .src/__pycache__
-*.csv
 jupyter_notebook/.ipynb_checkpoints/data_processing-checkpoint.ipynb
+jupyter_notebook/data_samples
