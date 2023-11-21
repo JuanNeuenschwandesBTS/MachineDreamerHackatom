@@ -40,7 +40,7 @@ Welcome to the SE-Europe-Data_Challenge_Template, part of the NUWE - Schneider E
 ### [EDA_UK](https://github.com/JuanNeuenschwandesBTS/MachineDreamerHackatom/blob/main/3_EDA/EDA_UK.ipynb)
 ### [EDA_IT](https://github.com/JuanNeuenschwandesBTS/MachineDreamerHackatom/blob/main/3_EDA/EDA__IT.ipynb)
 
-
+## [Modeling](https://github.com/JuanNeuenschwandesBTS/MachineDreamerHackatom/blob/main/4_modeling/ARIMA_models.ipynb)
 
 ## Results
 Once we got the CSV files from the data ingestion script we started working.
