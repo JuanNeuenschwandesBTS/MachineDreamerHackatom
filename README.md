@@ -29,15 +29,10 @@ Welcome to the SE-Europe-Data_Challenge_Template, part of the NUWE - Schneider E
 
 ## Usage
 
-This repository includes a Python script `create_db.py` for creating and managing a SQLite database with data relevant to sustainable and clean energy in Europe.
-
-To use the script:
-1. Ensure you have the required CSV files in the specified directory.
-2. Run the script with the desired database name:
-   ```sh
-   python create_db.py database_name
-   ```
 ## [Data Wrangling](https://github.com/JuanNeuenschwandesBTS/MachineDreamerHackatom/blob/main/jupyter_notebook/data_processing.ipynb)
+
+## [EDA PROFILING](https://github.com/JuanNeuenschwandesBTS/MachineDreamerHackatom/blob/main/3_EDA/eda_df_profiling_output.html)
+
 
 ## Results
 Once we got the CSV files from the data ingestion script we started working.
