@@ -1,7 +1,3 @@
-Certainly! Below is a template for a README file for the SE-Europe-Data_Challenge_Template, a project focused on sustainable and clean energy in Europe. This template is structured to provide clear, concise, and relevant information about the project.
-
----
-
 # SE-Europe-Data_Challenge_Template
 
 ## About the Project
@@ -31,7 +27,19 @@ Welcome to the SE-Europe-Data_Challenge_Template, part of the NUWE - Schneider E
 
 ## [Data Wrangling](https://github.com/JuanNeuenschwandesBTS/MachineDreamerHackatom/blob/main/jupyter_notebook/data_processing.ipynb)
 
-## [EDA PROFILING](https://github.com/JuanNeuenschwandesBTS/MachineDreamerHackatom/blob/main/3_EDA/eda_df_profiling_output.html)
+## [EDA Profiling](https://github.com/JuanNeuenschwandesBTS/MachineDreamerHackatom/blob/main/3_EDA/eda_df_profiling_output.html)
+
+## EDA per country
+### [EDA_DE](https://github.com/JuanNeuenschwandesBTS/MachineDreamerHackatom/blob/main/3_EDA/EDA_DE.ipynb)
+### [EDA_DK](https://github.com/JuanNeuenschwandesBTS/MachineDreamerHackatom/blob/main/3_EDA/EDA_DK.ipynb)
+### [EDA_HU](https://github.com/JuanNeuenschwandesBTS/MachineDreamerHackatom/blob/main/3_EDA/EDA_HU.ipynb)
+### [EDA_NE](https://github.com/JuanNeuenschwandesBTS/MachineDreamerHackatom/blob/main/3_EDA/EDA_NE.ipynb)
+### [EDA_PO](https://github.com/JuanNeuenschwandesBTS/MachineDreamerHackatom/blob/main/3_EDA/EDA_PO.ipynb)
+### [EDA_SE](https://github.com/JuanNeuenschwandesBTS/MachineDreamerHackatom/blob/main/3_EDA/EDA_SE.ipynbhttps://github.com/JuanNeuenschwandesBTS/MachineDreamerHackatom/blob/main/3_EDA/EDA_SP.ipynb)
+### [EDA_SP](https://github.com/JuanNeuenschwandesBTS/MachineDreamerHackatom/blob/main/3_EDA/EDA_SP.ipynb)
+### [EDA_UK](https://github.com/JuanNeuenschwandesBTS/MachineDreamerHackatom/blob/main/3_EDA/EDA_UK.ipynb)
+### [EDA_IT](https://github.com/JuanNeuenschwandesBTS/MachineDreamerHackatom/blob/main/3_EDA/EDA__IT.ipynb)
+
 
 
 ## Results
