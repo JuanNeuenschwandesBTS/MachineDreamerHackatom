@@ -37,6 +37,7 @@ To use the script:
    ```sh
    python create_db.py database_name
    ```
+## [Data Wrangling](https://github.com/JuanNeuenschwandesBTS/MachineDreamerHackatom/blob/main/jupyter_notebook/data_processing.ipynb)
 
 ## Results
 Once we got the CSV files from the data ingestion script we started working.
