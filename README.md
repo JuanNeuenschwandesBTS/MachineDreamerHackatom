@@ -6,7 +6,7 @@ Certainly! Below is a template for a README file for the SE-Europe-Data_Challeng
 
 ## About the Project
 
-Welcome to the SE-Europe-Data_Challenge_Template, part of the NUWE - Schneider Electric European Data Science Challenge in November 2023. This repository is designed to facilitate research and innovation in sustainable and clean energy across Europe. Our goal is to harness the power of data science to foster solutions that contribute to energy sustainability and efficiency.
+Welcome to the SE-Europe-Data_Challenge_Template, part of the NUWE - Schneider Electric European Data Science Challenge in November 2023. This repository is designed to facilitate research and innovation in sustainable and clean energy across Europe. Our goal is to harness the power of data science to foster solutions that contribute to energy sustainability and efficiency!
 
 ## Getting Started
 
